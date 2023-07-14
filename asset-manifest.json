@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lodhi-medical/static/css/main.57343efc.css",
-    "main.js": "/lodhi-medical/static/js/main.d63f2bf5.js",
+    "main.css": "/lodhi-medical/static/css/main.7c0c540b.css",
+    "main.js": "/lodhi-medical/static/js/main.ef123c36.js",
     "static/js/787.cb90359b.chunk.js": "/lodhi-medical/static/js/787.cb90359b.chunk.js",
     "static/media/sl1.png": "/lodhi-medical/static/media/sl1.b72ce33923ab784fe3c9.png",
     "index.html": "/lodhi-medical/index.html",
-    "main.57343efc.css.map": "/lodhi-medical/static/css/main.57343efc.css.map",
-    "main.d63f2bf5.js.map": "/lodhi-medical/static/js/main.d63f2bf5.js.map",
+    "main.7c0c540b.css.map": "/lodhi-medical/static/css/main.7c0c540b.css.map",
+    "main.ef123c36.js.map": "/lodhi-medical/static/js/main.ef123c36.js.map",
     "787.cb90359b.chunk.js.map": "/lodhi-medical/static/js/787.cb90359b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57343efc.css",
-    "static/js/main.d63f2bf5.js"
+    "static/css/main.7c0c540b.css",
+    "static/js/main.ef123c36.js"
   ]
 }
