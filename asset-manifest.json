@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/lodhi-medical/static/css/main.9451aa0a.css",
-    "main.js": "/lodhi-medical/static/js/main.96b81f95.js",
+    "main.js": "/lodhi-medical/static/js/main.0d7e1eec.js",
     "static/js/787.cb90359b.chunk.js": "/lodhi-medical/static/js/787.cb90359b.chunk.js",
     "static/media/sl1.png": "/lodhi-medical/static/media/sl1.b72ce33923ab784fe3c9.png",
     "static/media/lodhi-medical-store-logo.png": "/lodhi-medical/static/media/lodhi-medical-store-logo.2842101c160f8e9ab4fd.png",
     "index.html": "/lodhi-medical/index.html",
     "main.9451aa0a.css.map": "/lodhi-medical/static/css/main.9451aa0a.css.map",
-    "main.96b81f95.js.map": "/lodhi-medical/static/js/main.96b81f95.js.map",
+    "main.0d7e1eec.js.map": "/lodhi-medical/static/js/main.0d7e1eec.js.map",
     "787.cb90359b.chunk.js.map": "/lodhi-medical/static/js/787.cb90359b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9451aa0a.css",
-    "static/js/main.96b81f95.js"
+    "static/js/main.0d7e1eec.js"
   ]
 }
